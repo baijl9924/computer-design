@@ -1,6 +1,7 @@
 # Geometry Lab Final Integrated Project
 
-Geometry Lab 是一个面向高中函数学习场景的综合实验平台。当前工程把函数试验台、函数星图、AI 错题本、账户系统和学习状态检测整合在同一个项目中，由一个 Vue 3 前端、一个 Spring Boot 主服务和两个 FastAPI 服务协同运行。在线网址: https://kephhzx.cc.cd/
+Geometry Lab 是一个面向高中函数学习场景的综合实验平台。当前工程把函数试验台、函数星图、AI 错题本、账户系统和学习状态检测整合在同一个项目中，由一个 Vue 3 前端、一个 Spring Boot 主服务和两个 FastAPI 服务协同运行。
+在线demo网址: https://kephhzx.cc.cd/
 
 ## 功能概览
 
